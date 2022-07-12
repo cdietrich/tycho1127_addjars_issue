@@ -6,5 +6,4 @@ Bundle-Vendor: My Company
 Bundle-Version: 1.0.0.qualifier
 Bundle-SymbolicName: b; singleton:=true
 Bundle-ActivationPolicy: lazy
-Require-Bundle: a
 Bundle-RequiredExecutionEnvironment: JavaSE-11
